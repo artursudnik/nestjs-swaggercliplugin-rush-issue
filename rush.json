@@ -473,5 +473,9 @@
     //   "reviewCategory": "tools",
     //   "tags": ["tools"]
     // }
+    {
+      "packageName": "nestjs-app",
+      "projectFolder": "apps/nestjs-app"
+    }
   ]
 }
