@@ -80,3 +80,8 @@ node dist/main.js
 [Nest] 94627  - 06/27/2022, 3:26:11 PM     LOG [RouterExplorer] Mapped {/test1, POST} route +1ms
 [Nest] 94627  - 06/27/2022, 3:26:11 PM     LOG [NestApplication] Nest application successfully started +0ms
 ```
+
+## Findings so far
+Problem does not appear when:
+* not using NestJS Swagger CLI
+* RushJS is configured to use yarn not pnpm
